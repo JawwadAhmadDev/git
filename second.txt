@@ -1,1 +1,2 @@
 This is second.
+this is second line in second.txt 
